@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/System Software Engineer.md",
+                "file": "семестр 2 - фундамент/linux/права доступа и пользователи/Управление правами и пользователями.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Software Engineer"
+              "title": "Управление правами и пользователями"
             }
           }
         ]
@@ -183,8 +183,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "db34262dd59c6835",
+  "active": "b05b2f6fd21da4e1",
   "lastOpenFiles": [
+    "resources/System Software Engineer.md",
+    "семестр 2 - фундамент/linux/права доступа и пользователи/Управление правами и пользователями.md",
     "семестр 2 - фундамент/linux/права доступа и пользователи"
   ]
 }
