@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "семестр 2 - фундамент/linux/права доступа и пользователи/Управление пользователями и группами.md",
-                "mode": "preview",
+                "file": "resources/Neovim hotkeys.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Управление пользователями и группами"
+              "title": "Neovim hotkeys"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "Указатели"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/System Software Engineer.md",
+                "file": "resources/Neovim hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для System Software Engineer"
+              "title": "Backlinks for Neovim hotkeys"
             }
           },
           {
@@ -226,13 +225,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a4ae7de7084dc69",
+  "active": "db34262dd59c6835",
   "lastOpenFiles": [
+    "Untitled",
+    "Untitled.base",
+    "2026-01-29.md",
+    "resources/Neovim hotkeys.md",
     "resources/System Software Engineer.md",
+    "семестр 2 - фундамент/linux/права доступа и пользователи/Управление пользователями и группами.md",
+    "семестр 2 - фундамент/linux/права доступа и пользователи/Управление правами  для файлов(директорий).md",
     "семестр 2 - фундамент/c/Указатели.md",
     "семестр 2 - фундамент/linux/права доступа и пользователи/Расширенные права.md",
-    "семестр 2 - фундамент/linux/права доступа и пользователи/Управление правами  для файлов(директорий).md",
-    "семестр 2 - фундамент/linux/права доступа и пользователи/Управление пользователями и группами.md",
     "семестр 2 - фундамент/c/Этапы компиляции и флаги.md",
     "семестр 2 - фундамент/c/Компиляция и интерпритация.md",
     "семестр 2 - фундамент/linux/файловая система/Поиск файлов и их содержимого.md",
